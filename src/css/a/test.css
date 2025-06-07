@@ -1,10 +1,10 @@
 .test
 {
     color:red;
-    --scope-hash:h2; /* Collision-prevention ID */;    
+    --scope-hash:h2; /* Collision-prevention ID */
 }
 
-.item
+.test .item
 {
     color:green;
 }
