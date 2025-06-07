@@ -1,0 +1,29 @@
+.test
+{
+
+}
+
+
+
+
+.other-contet-a
+{
+
+}
+
+.test-2 
+{
+    --scope-hash: h2; /* Collision-prevention ID */
+    color: blue;
+}
+
+.other 
+{
+
+}
+
+
+.other-content-b
+{
+
+}
