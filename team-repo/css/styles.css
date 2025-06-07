@@ -14,7 +14,7 @@
 
 
 
-.test-1
+.test-2
 {
     --scope-hash: h2; /* Collision-prevention ID */
     color:purple;    
@@ -23,7 +23,7 @@
 
 
 
-.test-1__item
+.test-2__item
 {
     color:green;
 }

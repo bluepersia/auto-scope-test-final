@@ -1,7 +1,7 @@
 .test
 {
-    --scope-hash: h2; /* Collision-prevention ID */
-    color:red;    
+    color:red;
+    --scope-hash:h2; /* Collision-prevention ID */;    
 }
 
 .item
