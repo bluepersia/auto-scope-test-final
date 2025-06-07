@@ -1,7 +1,7 @@
 // scoped-css.config.js
 export default {
   inputDir: 'src', // Write all your vanilla content here
-  outputDir: 'dist', // This is where the converted files will be created
+  outputDir: 'team-repo', // This is where the converted files will be created
   dontFlatten: false, // Keep compound selectors rather than BEM-style flattening
   useNumbers: true, // Use IDs (1, 2, 3, 4) instead of hash (3d0ccd)
   dontHashFirst: false, // The first scope of a certain type doesn't get an ID or hash
