@@ -1,0 +1,7 @@
+.other-2 {
+  --scope-hash: h1; /* Collision-prevention ID */
+  color:brown;
+}
+
+.other-2__item {
+}
