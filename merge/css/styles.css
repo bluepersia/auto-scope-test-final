@@ -1,0 +1,27 @@
+.test {
+}
+
+.other-contet-a {
+}
+
+.test-2__title {
+  color: aqua;
+}
+
+.test-2 {
+  color: red;
+  --scope-hash: h2; /* Collision-prevention ID */
+}
+
+.test-2__item {
+  color: green;
+}
+
+.other {
+}
+
+.test-2__other {
+}
+
+.other-content-b {
+}
