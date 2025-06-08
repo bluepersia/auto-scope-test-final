@@ -12,7 +12,10 @@
 }
 
 
-
+.test-2__title 
+{
+    color:aqua;
+}
 
 .test-2
 {
@@ -34,6 +37,11 @@
 .other 
 {
 
+}
+
+.test-2__other
+{
+    
 }
 
 
