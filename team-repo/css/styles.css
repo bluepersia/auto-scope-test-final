@@ -5,12 +5,12 @@
 }
 
 .test-2 {
-  color: pink;
+  color: blue;
   --scope-hash: h2; /* Collision-prevention ID */
 }
 
 .test-2__item {
-  color: purple;
+  color: white;
   background-color: white;
 }
 
