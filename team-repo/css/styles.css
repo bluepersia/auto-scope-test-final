@@ -5,7 +5,7 @@
 }
 
 .test-2 {
-  color: yellow;
+  color: orange;
   --scope-hash: h2; /* Collision-prevention ID */
 }
 
