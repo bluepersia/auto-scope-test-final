@@ -5,7 +5,7 @@
 }
 
 .test-2 {
-  color: lime;
+  color: aqua;
   --scope-hash: h2; /* Collision-prevention ID */
 }
 
