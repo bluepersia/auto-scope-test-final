@@ -1,5 +1,5 @@
 .test {
-  color: blue;
+  color: red;
   --scope-hash: h2; /* Collision-prevention ID */
 }
 
